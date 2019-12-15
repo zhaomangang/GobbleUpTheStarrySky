@@ -1,0 +1,2 @@
+1、创建新项目
+cocos new HelloWorld -l cpp -p com.itkim.helloworld -d G:\GobbleUpTheStarrySky\GobbleUpTheStarrySky\code

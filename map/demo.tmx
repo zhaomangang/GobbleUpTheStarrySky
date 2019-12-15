@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="30" tileheight="32">
+ <tileset firstgid="1" name="demo" tilewidth="30" tileheight="32">
+  <image source="img/demo.jpg" width="540" height="300"/>
+ </tileset>
+ <tileset firstgid="163" name="npc1" tilewidth="30" tileheight="32">
+  <image source="img/npc1.jpg" width="560" height="801"/>
+ </tileset>
+ <tileset firstgid="613" name="npc3" tilewidth="30" tileheight="32">
+  <image source="img/5690530967350055f/NPC_1/05/image 1.png" width="41" height="124"/>
+ </tileset>
+ <layer name="块层 1" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt18lXz2EARvHvD5kzlzHKrChEkjmVeaZBilCUKcmQsTJHoggJ8Zd2d7ZW7+I993PO3T/bJ5UkyRgam0iSJEmSpBikkn9ffxyl0XiaQBNpEk2mKTSV0mkaTacZNJNmBV8dr9k0hzIok+bSPJpPC2ghLaIsWkxLKJtyaCkto+WhR0dsBa2kVbSa1lAu5dFaWkf5VEDraQNtpELaRJupKPjqeG2hYtpKJbSNttMO2km7aDftoVLaS2VUThW0j/aHHh2xA3SQDtFhOkJH6RgdpxN0kk7RaTpDlVRF1VRDZ4OvjlctnaM6qqfzdIEa6CJdosvUSE10ha5SM7XQNboeenTEbtBNukWtdJva6A610126R/fpAXXQQ3pEj+kJPQ2+Ol7PqJO6qJue0wt6Sa/oNb2ht9RD7+g99dIH6qOPoUdH7BP10wB9pi80SF/pG32nIfpBw/STftFvGqE/9Df0aEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmS/sMoCJkzmg==
+  </data>
+ </layer>
+ <objectgroup name="对象层 1">
+  <object gid="615" x="990.5" y="574"/>
+  <object gid="614" x="990" y="539.5"/>
+  <object gid="613" x="990" y="507.5"/>
+ </objectgroup>
+</map>
